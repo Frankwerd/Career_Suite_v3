@@ -1,4 +1,4 @@
-# Career_Suite_v3
+# Career_Suite_AI_v3
 # Automated Job Application Tracker & Dashboard v3 **REVISED NAME**
 
 **Project:** Automated Job Application Tracker & Pipeline Manager v3.1 (Corrected Sections)
